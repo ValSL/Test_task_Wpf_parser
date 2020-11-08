@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5pTItyqcbUTzDCMbg1vtdZlDLtnFNW57P4GLTWPmgSneM+PGLgQF+i66J2itZYGqNxEWJl1SRZ/ICLXp63gBg==",
+  "success": true,
+  "projectFilePath": "P:\\Programming\\C#\\Task2\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ValSL\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
+    "C:\\Users\\ValSL\\.nuget\\packages\\htmlagilitypack\\1.11.26\\htmlagilitypack.1.11.26.nupkg.sha512",
+    "C:\\Users\\ValSL\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ValSL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\ValSL\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
